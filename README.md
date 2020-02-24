@@ -17,7 +17,7 @@ Write your code in `src/count-cats.js`.
 
 ---
 
-### **Carbon dating**
+~~### **Carbon dating**~~
 
 To determine the age of archaeological finds, **radioisotope dating** is widely used. One of its types is **radiocarbon dating**.
 
