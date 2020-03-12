@@ -7,7 +7,7 @@ Your task is to write several functions that are the solution to the subtasks. S
 
 ---
 
-### **Count cats!**
+### ~~**Count cats!**~~
 
 Your task is to count the cats hidden in the backyard (presented by two-dimensional `Array`). Cats hide well, but their **ears** (`"^^"`) are clearly visible. Your task is to implement the `countCats(backyard)` function that will count cats. Good luck!
 
@@ -17,7 +17,7 @@ Write your code in `src/count-cats.js`.
 
 ---
 
-### **Carbon dating**
+### ~~**Carbon dating**~~
 
 To determine the age of archaeological finds, **radioisotope dating** is widely used. One of its types is **radiocarbon dating**.
 
@@ -33,7 +33,7 @@ Write your code in `src/carbon-dating.js`.
 
 ---
 
-### **Dream team**
+### ~~**Dream team**~~
 
 Imagine you and your friends decide to create a **dream team**. This team should have a cool secret name that contains encrypted information about it. For example, these may be the **first letters** of the names of its members in **upper case** **sorted alphabetically**.
 Your task is to implement the `createDreamTeam(members)` function that returns name of a newly made team (`string`) based on the names of its members (`Array`). Good luck!
